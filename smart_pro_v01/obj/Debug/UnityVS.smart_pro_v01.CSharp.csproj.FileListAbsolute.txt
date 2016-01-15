@@ -1,0 +1,17 @@
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\learning\U3D\project\v5.1\smart_pro_v01\obj\Debug\UnityVS.smart_pro_v01.CSharp.csprojResolveAssemblyReference.cache
+E:\learning\U3D\project\v5.1\smart_pro_v01\obj\Debug\Assembly-CSharp.dll
+E:\learning\U3D\project\v5.1\smart_pro_v01\obj\Debug\Assembly-CSharp.pdb
